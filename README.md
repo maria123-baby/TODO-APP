@@ -1,4 +1,4 @@
-Features
+**Features**
 
 - Add, edit, and delete tasks
 - Add and update deadlines for tasks
@@ -7,7 +7,7 @@ Features
 - Progress Bar to track productivity
 - Personalized tasks for each user
 
-Tech Stack
+**Tech Stack**
 
 Frontend:
   - React (Vite)
