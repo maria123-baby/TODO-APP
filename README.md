@@ -1,8 +1,24 @@
-# React + Vite
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Add, edit, and delete tasks
+- Add and update deadlines for tasks
+- Dashboard with completed and pending task
+- User Authentication
+- Progress Bar to track productivity
+- Personalized tasks for each user
 
-Currently, two official plugins are available:
+Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend:
+  - React (Vite)
+  - CSS / Bootstrap
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB (Mongoose)
+
+Authentication:
+  - JWT (JSON Web Token)
